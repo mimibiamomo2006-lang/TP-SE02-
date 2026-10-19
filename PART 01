@@ -25,3 +25,4 @@ int main(void) {
     }
     return 0;
 }
+gcc p1.c -o p1 && ./p1
